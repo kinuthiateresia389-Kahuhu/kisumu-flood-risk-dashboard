@@ -24,3 +24,7 @@ An interactive map visualizes flood risk across all wards.
 
 ## Author
 Teresia Kinuthia, Maseno University, School of Planning — Disaster Management with IT
+
+---
+### 📫 Enterprise Allocations & Consulting Contracts
+To deploy, scale, or integrate this automated predictive AI pipeline for your organization, retain my systems engineering stack directly through [My Upwork Console](https://www.upwork.com/freelancers/~014e56546866817167?mp_source=share).
